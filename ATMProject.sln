@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMProject", "ATMProject\ATMProject.csproj", "{90926356-B74C-43C2-874F-9F63A3169D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMTest", "ATMTest\ATMTest.csproj", "{4B9D74B5-DD86-4284-ACFD-D72A070ED78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90926356-B74C-43C2-874F-9F63A3169D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90926356-B74C-43C2-874F-9F63A3169D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90926356-B74C-43C2-874F-9F63A3169D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90926356-B74C-43C2-874F-9F63A3169D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9D74B5-DD86-4284-ACFD-D72A070ED78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9D74B5-DD86-4284-ACFD-D72A070ED78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9D74B5-DD86-4284-ACFD-D72A070ED78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9D74B5-DD86-4284-ACFD-D72A070ED78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81447725-D83E-4378-8C97-1A98A642062E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://wi16b033.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ATMProject\\ATMProject.csproj
+		SccProjectName1 = ATMProject
+		SccLocalPath1 = ATMProject
+		SccProjectUniqueName2 = ATMTest\\ATMTest.csproj
+		SccProjectName2 = ATMTest
+		SccLocalPath2 = ATMTest
+	EndGlobalSection
+EndGlobal
